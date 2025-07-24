@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 我的个人博客
-description: 分享技术、生活和创意
-cover_image: /assets/images/header-bg.jpg
+title: home page
+description: nope
+cover_image:
 ---
 
 # 欢迎
@@ -46,8 +46,8 @@ cover_image: /assets/images/header-bg.jpg
 
 ## 联系方式
 
-📧 邮箱: [contact@example.com](mailto:contact@example.com)  
-🐦 推特: [@tech_blogger](https://twitter.com/tech_blogger)  
-💻 GitHub: [github.com/techblogger](https://github.com/techblogger)  
-📱 微信: tech_blogger (扫码添加)  
+📧 邮箱: 202211120128@sdust.edu.cn
+🐦 csdn:  https://blog.csdn.net/qq_55477470?type=blog
+💻 leecode:(https://leetcode.cn/u/yukki-xw/)
+📱 微信:Asariaaa  
 ![微信二维码]("/")
