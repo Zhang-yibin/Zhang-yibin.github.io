@@ -2,7 +2,7 @@
 layout: default
 title: home page
 description: nope
-cover_image:
+cover_image:/Assets/walkman.jpg
 ---
 
 # 欢迎
