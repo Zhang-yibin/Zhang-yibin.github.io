@@ -2,12 +2,12 @@
 layout: default
 title: home page
 description: nope
-cover_image:/Assets/walkman.jpg
+cover_image:
 ---
 
 # 欢迎
 
-
+<img src="/Assets/walkman.jpg" alt="12">
 <!DOCTYPE html>
 <html lang="en">
 
