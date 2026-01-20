@@ -8,7 +8,7 @@ cover_image:
 # 欢迎
 
 <img src="/Assets/walkman.jpg" alt="12">
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
