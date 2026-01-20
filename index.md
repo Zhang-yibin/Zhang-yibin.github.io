@@ -37,6 +37,8 @@ cover_image:
     基于x网络的x检测
     基于x的x行为分析
     </p>
+    <h3>目前研究内容</h3>
+    
   </div>
 
   <div class="project-item">
