@@ -19,7 +19,10 @@ cover_image:
 
 <body>
     <h1>Welcome Here</h1>
-    <p>待更新~~~~</p>
+    <p>待更新~~~~
+    
+    内容大概在asset图中~~~
+    </p>
 </body>
 <script src="index.js">
 </script>
