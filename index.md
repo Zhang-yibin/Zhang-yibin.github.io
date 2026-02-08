@@ -20,8 +20,10 @@ cover_image:
 <body>
     <h1>Welcome Here</h1>
     <p>待更新~~~~
-    
+    拿得出手的项目：自己造的一些轮子，比如opencv的两个，script一个（New blbl),以及一些关联数据库的系统
+        笔记&&读的比较详细的paper？
     内容大概在asset图中~~~
+    躺了两周真爽。今天开始干活-----2.8
     </p>
 </body>
 <script src="index.js">
